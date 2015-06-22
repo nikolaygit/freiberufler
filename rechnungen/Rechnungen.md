@@ -66,7 +66,7 @@ TODO:
 * keine Änderungen am Datenträger zulassen, z.B. CD. externe Festplatte, Rechenzentrum. 
 * TODO: Eine E-Mail-Adresse/Verzeichnis für Rechnungen?
 * Einer Betriebsprüfer soll sie einsehen können.
-* Soll: revisionssichere elektronische Aufbewahrung
+* Soll: [revisionssichere elektronische Aufbewahrung](https://de.wikipedia.org/wiki/Revisionssicherheit#Merkmale_der_Revisionssicherheit_bei_der_elektronischen_Archivierung)
 
 ## Korrektur
 
