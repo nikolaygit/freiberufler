@@ -41,10 +41,7 @@ Nur mit Zustimmung des Empfängers. Stille Zustimmung möglich.
 
 Die Rechnungen müssen kontrolliert werden, um die Vorsteuer geltend zu machen. IT-gestützt oder manuell.
 
-* Mit dem Finanzamt klären, ob das innerbetriebliche Kontrollverfahren anerkannt wird. 
-Wenn nicht anerkannt, muss die abgezogene Vorsteuer zurückgezahlt werden. 
-
-Gewährleisten:
+Das Kontrollverfahren soll dokumentiert sein und gewährleisten:
 * Echtheit der Herkunft
     * tatsächlich vom Aussteller?
     * Inhalte/Leistung richtig?
@@ -54,10 +51,12 @@ Gewährleisten:
 * Lesbarkeit der Rechnungen
     * PDF-Viewer
 
+Nach der Kontrolle, soll die Rechnung archiviert werden.
+
 TODO:
 
-* Kontrollverfahren!
-* Ist eine Checkliste "Kontrolle elektronischer Rechnungen" als erforderlich?
+* Eine Checkliste "Kontrolle elektronischer Rechnungen" erstellen.
+* Mit dem Finanzamt klären, ob das innerbetriebliche Kontrollverfahren anerkannt wird. Wenn nicht anerkannt, muss die abgezogene Vorsteuer zurückgezahlt werden.
 
 ### Archivierung
 
