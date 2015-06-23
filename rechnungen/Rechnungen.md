@@ -68,6 +68,15 @@ TODO:
 * Einer Betriebsprüfer soll sie einsehen können.
 * Soll: [revisionssichere elektronische Aufbewahrung](https://de.wikipedia.org/wiki/Revisionssicherheit#Merkmale_der_Revisionssicherheit_bei_der_elektronischen_Archivierung)
 
+Möglichkeiten:
+
+#### Verschlüsselte Cloud Daten
+
+* Alle Daten in einer verschlüsselten Verzeichnisstruktur.
+* Verschlüsselung
+    * https://www.boxcryptor.com/en (Windows und Mac, Portable-Variante für Linux) - 
+* Cloud: Google Drive, etc
+
 ## Korrektur
 
 * korrigierte Rechnung nicht einfach nochmal schicken. Umsatzsteuer wird doppelt bezahlt.
