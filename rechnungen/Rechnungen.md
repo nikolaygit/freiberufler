@@ -85,3 +85,10 @@ Möglichkeiten:
 Bei Tippfehler:
 * eine Rechnungsberichtigung erstellen, ursprüngliche Rechnungsnummer und das Datum.
 * oder ursprüngliche Rechnung stornieren, in der neue auf die Stornierung hinweisen.
+
+## Fahrtkosten in der Rechnung
+
+* müssen mit dem Auftraggeber im Vertrag vereinbart werden!
+* Kein Vorsteuerabzug bei Pauschalbeträge.
+* ``Reisekosten/Zugticket (netto)`` in der Rechnung schreiben. [Source](http://www.iww.de/rvgprof/praxisfaelle/reisekosten-so-weisen-sie-die-umsatzsteuer-richtig-aus-f71322)
+
