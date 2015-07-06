@@ -67,6 +67,12 @@ TODO:
 * Einer Betriebsprüfer soll sie einsehen können.
 * Soll: [revisionssichere elektronische Aufbewahrung](https://de.wikipedia.org/wiki/Revisionssicherheit#Merkmale_der_Revisionssicherheit_bei_der_elektronischen_Archivierung)
 
+Legal:
+
+* [§ 147 AO Ordnungsvorschriften für die Aufbewahrung von Unterlagen](http://www.gesetze-im-internet.de/ao_1977/__147.html)
+* [§ 146 AO Ordnungsvorschriften für die Buchführung und für Aufzeichnungen](http://www.gesetze-im-internet.de/ao_1977/__146.html)
+* [§ 200 AO Mitwirkungspflichten des Steuerpflichtigen](http://www.gesetze-im-internet.de/ao_1977/__200.html)
+
 Möglichkeiten:
 
 #### Verschlüsselte Cloud Daten
