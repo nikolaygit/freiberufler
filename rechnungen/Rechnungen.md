@@ -74,6 +74,7 @@ Legal:
 * [§ 200 AO Mitwirkungspflichten des Steuerpflichtigen](http://www.gesetze-im-internet.de/ao_1977/__200.html)
 * [GoBD - Grundsätze zur ordnungsmäßigen Führung und Aufbewahrung von Büchern, 
 Aufzeichnungen und Unterlagen in elektronischer Form sowie zum Datenzugriff](http://www.bundesfinanzministerium.de/Content/DE/Downloads/BMF_Schreiben/Weitere_Steuerthemen/Abgabenordnung/Datenzugriff_GDPdU/2014-11-14-GoBD.pdf?__blob=publicationFile&v=1)
+    * [Die GoBD in der Praxis](http://www.psp.eu/media/allgemein/GoBD-Leitfaden_Version_1_3_FINAL.pdf) http://www.gobd.de/
 
 Möglichkeiten:
 
