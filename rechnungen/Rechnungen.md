@@ -72,6 +72,8 @@ Legal:
 * [§ 147 AO Ordnungsvorschriften für die Aufbewahrung von Unterlagen](http://www.gesetze-im-internet.de/ao_1977/__147.html)
 * [§ 146 AO Ordnungsvorschriften für die Buchführung und für Aufzeichnungen](http://www.gesetze-im-internet.de/ao_1977/__146.html)
 * [§ 200 AO Mitwirkungspflichten des Steuerpflichtigen](http://www.gesetze-im-internet.de/ao_1977/__200.html)
+* [GoBD - Grundsätze zur ordnungsmäßigen Führung und Aufbewahrung von Büchern, 
+Aufzeichnungen und Unterlagen in elektronischer Form sowie zum Datenzugriff](http://www.bundesfinanzministerium.de/Content/DE/Downloads/BMF_Schreiben/Weitere_Steuerthemen/Abgabenordnung/Datenzugriff_GDPdU/2014-11-14-GoBD.pdf?__blob=publicationFile&v=1)
 
 Möglichkeiten:
 
