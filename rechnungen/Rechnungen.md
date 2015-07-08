@@ -100,4 +100,4 @@ Bei Tippfehler:
 * müssen mit dem Auftraggeber im Vertrag vereinbart werden!
 * Kein Vorsteuerabzug bei Pauschalbeträge.
 * ``Reisekosten/Zugticket (netto)`` in der Rechnung schreiben. [Source](http://www.iww.de/rvgprof/praxisfaelle/reisekosten-so-weisen-sie-die-umsatzsteuer-richtig-aus-f71322), [Bahnticket](http://www.gutefrage.net/frage/als-freiberufler-bahnticket-in-rechnung-stellen-dann-in-eigene-umsatzsteuererklaerung-aufnehmen)
-
+* http://www.spesen-ratgeber.de/spesenabrechnung/
