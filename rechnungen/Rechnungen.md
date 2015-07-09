@@ -85,6 +85,10 @@ Möglichkeiten:
     * https://www.boxcryptor.com/en (Windows und Mac, Portable-Variante für Linux) - 
 * Cloud: Google Drive, etc
 
+#### Links
+
+* http://www.computerwoche.de/a/auf-immer-und-ewig-archiviert,2521331
+
 ## Korrektur
 
 * korrigierte Rechnung nicht einfach nochmal schicken. Umsatzsteuer wird doppelt bezahlt.
