@@ -88,6 +88,8 @@ Möglichkeiten:
 #### Links
 
 * http://www.unilab.de/index.php?id=170
+* http://www.haufe.de/finance/buchfuehrung-kontierung/elektronische-rechnungen-wichtige-informationen/rechtlicher-rahmen-der-elektronischen-rechnung_186_271602.html
+* http://www.haufe.de/finance/buchfuehrung-kontierung/elektronische-rechnungen-was-sie-beachten-muessen/innerbetriebliches-kontrollverfahren-einrichten_186_286148.html
 * http://www.computerwoche.de/a/auf-immer-und-ewig-archiviert,2521331
 
 ## Korrektur
