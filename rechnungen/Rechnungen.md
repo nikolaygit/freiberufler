@@ -91,8 +91,10 @@ Möglichkeiten:
 * http://www.haufe.de/finance/buchfuehrung-kontierung/elektronische-rechnungen-wichtige-informationen/rechtlicher-rahmen-der-elektronischen-rechnung_186_271602.html
 * http://www.haufe.de/finance/buchfuehrung-kontierung/elektronische-rechnungen-was-sie-beachten-muessen/innerbetriebliches-kontrollverfahren-einrichten_186_286148.html
 * http://www.computerwoche.de/a/auf-immer-und-ewig-archiviert,2521331
+* http://www.lexware.de/unternehmer-und-organisation/elektronische-rechnungen-2-diese-rechtlichen-anforderungen-sollten-sie-beachten
 * http://www.lexware.de/unternehmer-und-organisation/elektronische-rechnungen-3-tipps-fuer-die-einfuehrung
 * https://de.wikipedia.org/wiki/WORM
+* https://docuvita-online.de/elektronische-rechnungen-archivieren/
 
 ## Korrektur
 
